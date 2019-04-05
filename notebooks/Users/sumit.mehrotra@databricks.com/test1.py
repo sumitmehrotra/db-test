@@ -12,4 +12,5 @@
 
 # MAGIC %sql
 # MAGIC select * from temp_diamonds_sumit
+# MAGIC where cut = 'Ideal'
 # MAGIC --remark
